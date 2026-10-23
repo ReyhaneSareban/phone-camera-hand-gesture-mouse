@@ -50,11 +50,7 @@ Make sure your phone camera is accessible to OpenCV before running the script.
 
 ## Run the Project
 
-Save the code as `main.py` and run:
-
-```bash
-python main.py
-```
+run the 'main.ipynb'
 
 Make sure your phone camera is connected and selected correctly.
 
